@@ -26,7 +26,5 @@ This repo will include:
 - Reflections on what I learn each week
 
 ##  Connect With Me
-LinkedIn: https://www.linkedin.com/in/abdullahi-adeyemi-4714bb319/
-X: https://x.com/crownbefitsme07?s=21
-- **LinkedIn:** [Your LinkedIn URL here]
-- **GitHub:** [Your GitHub profile link here]
+- **LinkedIn:** https://www.linkedin.com/in/abdullahi-adeyemi-4714bb319/
+- **GitHub:** https://www.gihub.com/thecrownbefitsme/
